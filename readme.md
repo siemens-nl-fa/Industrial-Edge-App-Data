@@ -1,3 +1,3 @@
 Data for Apps
-* [Performance Insight](/performance-insight)
-* [Flow Creator](/flow-creator)
+* [Performance Insight](./Performance%20Insight)
+* [Flow Creator](./Flow%20Creator)
